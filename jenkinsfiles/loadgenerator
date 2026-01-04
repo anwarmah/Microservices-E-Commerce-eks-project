@@ -43,7 +43,7 @@ pipeline {
             environment {
                 GIT_REPO_NAME = "Microservices-E-Commerce-eks-project"
                 GIT_EMAIL = "ahussain1@logitech.com"
-                GIT_USER_NAME = "ahussain1"
+                GIT_USER_NAME = "anwarmah"
                 IMAGE_NAME = "loadgenerator"
                 REPO_URL = "023785694019.dkr.ecr.us-east-1.amazonaws.com/loadgenerator"
                 YAML_FILE = "loadgenerator.yaml"
